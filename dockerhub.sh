@@ -1,2 +1,2 @@
-docker build -t username/image-classifier .
-docker push username/image-classifier
+docker build -t drewafromsky/image-classifier .
+docker push drewafromsky/image-classifier

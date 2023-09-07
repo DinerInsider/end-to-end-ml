@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: username/image-classifier
+  repository: drewafromsky/image-classifier
   tag: latest
   pullPolicy: IfNotPresent
 
